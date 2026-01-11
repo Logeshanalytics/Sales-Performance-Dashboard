@@ -76,7 +76,7 @@ This dashboard helps management quickly identify high-performing regions and pro
 
 * Sales_Performance_Dashboard.xlsx
 * Dashboard image ad output.pdf
-* 
+* Report summary.pdf
 * README.md
 
 ## Author
